@@ -5,10 +5,10 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/deepakbhadoriya" target="new"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/deepakbhadoriya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 &nbsp;
 &nbsp;
-<a href="https://www.deepakbhadoriya.in" target="new"><img src="https://img.shields.io/badge/website-orange?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"></a>
+<a href="https://www.deepakbhadoriya.in" target="_blank"><img src="https://img.shields.io/badge/website-orange?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"></a>
 </p>
 
 <br/>
